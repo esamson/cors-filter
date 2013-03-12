@@ -9,7 +9,7 @@
 
 	<groupId>ph.samson</groupId>
 	<artifactId>cors-filter</artifactId>
-	<version>1.5.0.1</version>
+	<version>1.5.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>CORS Filter</name>
@@ -55,7 +55,7 @@
 		<url>https://github.com/esamson/cors-filter</url>
         <connection>scm:git:https://github.com/esamson/cors-filter.git</connection>
         <developerConnection>scm:git:git@github.com:esamson/cors-filter.git</developerConnection>
-	  <tag>cors-filter-1.5.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<dependencies>
